@@ -1,0 +1,659 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "image": "https://i.imgur.com/v0H61cx.png",
+      "showLogo": true,
+      "menuIcon": {
+        "fontFamily": "MaterialIcons",
+        "name": "blur_on"
+      },
+      "pos": 100,
+      "showMenu": false,
+      "showSearch": false,
+      "showNotification": false,
+      "showCart": false
+    },
+    {
+      "padding": 0,
+      "upHeight": 0,
+      "parallax": false,
+      "isSlider": true,
+      "enableParallax": false,
+      "isHorizontal": false,
+      "marginLeft": 15,
+      "layout": "bannerImage",
+      "fit": "fitWidth",
+      "marginRight": 15,
+      "isBlur": false,
+      "parallaxImageRatio": 1.2,
+      "pos": 200,
+      "showNumber": false,
+      "design": "default",
+      "showBackground": false,
+      "marginBottom": 0,
+      "radius": 2,
+      "autoPlay": true,
+      "items": [
+        {
+          "image": "https://www.asdaaalshroq.com/wp-content/uploads/2023/03/005.jpeg",
+          "bannerWithProduct": false,
+          "showSubcategory": false,
+          "defaultShowProduct": false,
+          "products": []
+        },
+        {
+          "image": "https://www.asdaaalshroq.com/wp-content/uploads/2023/03/003.jpeg",
+          "bannerWithProduct": false,
+          "showSubcategory": false,
+          "defaultShowProduct": false,
+          "products": []
+        },
+        {
+          "image": "https://www.asdaaalshroq.com/wp-content/uploads/2023/03/002.jpeg",
+          "bannerWithProduct": false,
+          "showSubcategory": false,
+          "defaultShowProduct": false,
+          "products": []
+        }
+      ],
+      "marginTop": 0,
+      "intervalTime": 3
+    },
+    {
+      "labelFontSize": 13,
+      "line": false,
+      "noBackground": true,
+      "type": "icon",
+      "showShortDescription": true,
+      "marginX": 0,
+      "marginLeft": 12,
+      "marginY": 0,
+      "layout": "category",
+      "marginRight": 10,
+      "paddingX": 0,
+      "imageBorderStyle": "solid",
+      "imageSpacing": 0,
+      "imageBorderWidth": 0,
+      "spacing": 0,
+      "size": 1.6,
+      "hideTitle": false,
+      "pos": 300,
+      "marginBottom": 13,
+      "radius": 50,
+      "wrap": false,
+      "items": [
+        {
+          "image": "https://i.imgur.com/IlUHFfB.png",
+          "backgroundColor": "ffffffff",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "title": "LENSES",
+          "colors": [
+            "#333333",
+            "#ff673ab7"
+          ]
+        },
+        {
+          "image": "https://i.imgur.com/Et72Oig.png",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "title": "MAKE UP",
+          "category": "122",
+          "colors": [
+            "#333333"
+          ]
+        },
+        {
+          "image": "https://i.imgur.com/OoFeYhG.png",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "category": "128",
+          "title": "WOMEN PERFUMES",
+          "colors": [
+            "#333333"
+          ]
+        },
+        {
+          "image": "https://i.imgur.com/1W0d7PM.png",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "category": "127",
+          "title": "MAN PERFUMES",
+          "colors": [
+            "#333333"
+          ]
+        },
+        {
+          "image": "https://i.imgur.com/TdjU3KY.png",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "title": "New ",
+          "colors": [
+            "#333333"
+          ]
+        },
+        {
+          "image": "https://i.imgur.com/nVXRwRV.png",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "category": "151",
+          "title": "PERSONAL CARE",
+          "colors": [
+            "#333333"
+          ]
+        },
+        {
+          "image": "https://i.imgur.com/IuiU8gc.png",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "title": "HARDWARES",
+          "category": "123",
+          "colors": [
+            "#333333"
+          ]
+        },
+        {
+          "image": "https://i.imgur.com/w4hs3Ko.png",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "category": "124",
+          "title": "THE NAILS",
+          "colors": [
+            "#333333"
+          ]
+        }
+      ],
+      "marginTop": 18,
+      "paddingY": 0
+    },
+    {
+      "padding": 0,
+      "upHeight": 0,
+      "parallax": false,
+      "isSlider": true,
+      "enableParallax": false,
+      "isHorizontal": false,
+      "marginLeft": 0,
+      "layout": "bannerImage",
+      "fit": "fitWidth",
+      "marginRight": 0,
+      "isBlur": false,
+      "parallaxImageRatio": 1.2,
+      "pos": 400,
+      "showNumber": false,
+      "design": "swiper",
+      "showBackground": false,
+      "marginBottom": 0,
+      "radius": 6,
+      "autoPlay": false,
+      "items": [
+        {
+          "image": "https://www.asdaaalshroq.com/wp-content/uploads/2023/03/العطور-large.png",
+          "bannerWithProduct": false,
+          "showSubcategory": false,
+          "category": "498",
+          "defaultShowProduct": false,
+          "products": []
+        },
+        {
+          "image": "https://www.asdaaalshroq.com/wp-content/uploads/2023/03/مكياج-large.png",
+          "bannerWithProduct": false,
+          "showSubcategory": false,
+          "category": "519",
+          "defaultShowProduct": false,
+          "products": []
+        },
+        {
+          "image": "https://www.asdaaalshroq.com/wp-content/uploads/2023/03/الأظافر-large.png",
+          "bannerWithProduct": false,
+          "showSubcategory": false,
+          "category": "531",
+          "defaultShowProduct": false,
+          "products": []
+        },
+        {
+          "image": "https://www.asdaaalshroq.com/wp-content/uploads/2023/03/العناية-large.png",
+          "bannerWithProduct": false,
+          "showSubcategory": false,
+          "category": "537",
+          "defaultShowProduct": false,
+          "products": []
+        }
+      ],
+      "marginTop": 0,
+      "intervalTime": 3
+    },
+    {
+      "showCartIcon": true,
+      "boxShadow": {
+        "spreadRadius": 10,
+        "colorOpacity": 0.1,
+        "blurRadius": 18.181818181818183,
+        "x": 3,
+        "y": 9
+      },
+      "imageBoxfit": "fill",
+      "showStockStatus": true,
+      "titleLine": 1,
+      "hideEmptyProductLayout": false,
+      "showCountDown": false,
+      "parallax": false,
+      "columns": 0,
+      "hideStore": false,
+      "vPadding": 0,
+      "showQuantity": false,
+      "showHeart": true,
+      "hMargin": 8,
+      "parallaxImageRatio": 1.2,
+      "showCartButtonWithQuantity": false,
+      "vMargin": 1,
+      "showOnlyImage": false,
+      "pos": 500,
+      "onSale": false,
+      "image": "",
+      "showCartIconColor": false,
+      "orderby": "include",
+      "hPadding": 0,
+      "hidePrice": false,
+      "rows": 2,
+      "enableBottomAddToCart": true,
+      "layout": "threeColumn",
+      "enableRating": true,
+      "imageRatio": 1.1369484775037653,
+      "hideTitle": false,
+      "borderRadius": 5,
+      "backgroundHeight": 250,
+      "cardDesign": "card",
+      "backgroundRadius": 10,
+      "isSnapping": true,
+      "showCartButton": false,
+      "name": "العطور",
+      "cartIconRadius": 9,
+      "category": "498",
+      "backgroundWidthMode": true,
+      "hideEmptyProductListRating": false
+    },
+    {
+      "showCartIcon": true,
+      "boxShadow": {
+        "spreadRadius": 10,
+        "colorOpacity": 0.1,
+        "blurRadius": 18.181818181818183,
+        "x": 3,
+        "y": 9
+      },
+      "imageBoxfit": "fill",
+      "showStockStatus": true,
+      "titleLine": 1,
+      "hideEmptyProductLayout": false,
+      "showCountDown": false,
+      "parallax": false,
+      "columns": 0,
+      "hideStore": false,
+      "vPadding": 0,
+      "showQuantity": false,
+      "showHeart": true,
+      "hMargin": 8,
+      "parallaxImageRatio": 1.2,
+      "showCartButtonWithQuantity": false,
+      "vMargin": 1,
+      "showOnlyImage": false,
+      "pos": 600,
+      "onSale": false,
+      "image": "",
+      "showCartIconColor": false,
+      "orderby": "include",
+      "hPadding": 0,
+      "hidePrice": false,
+      "rows": 2,
+      "typep": "bestProduct",
+      "enableBottomAddToCart": true,
+      "layout": "twoColumn",
+      "enableRating": true,
+      "imageRatio": 1.1369484775037653,
+      "hideTitle": false,
+      "borderRadius": 5,
+      "backgroundHeight": 250,
+      "cardDesign": "card",
+      "backgroundRadius": 10,
+      "isSnapping": true,
+      "showCartButton": false,
+      "name": "العناية الشخصية",
+      "cartIconRadius": 9,
+      "category": "537",
+      "backgroundWidthMode": true,
+      "hideEmptyProductListRating": false
+    },
+    {
+      "layout": "blog",
+      "padding": "16.0",
+      "backgroundColor": null,
+      "hideTitle": false,
+      "innerPadding": "16.0",
+      "itemBackgroundColor": null,
+      "hideComment": false,
+      "pos": 700,
+      "name": "مدونة الموقع",
+      "hideAuthor": false,
+      "hideDate": false,
+      "radius": "0.0"
+    }
+  ],
+  "Setting": {
+    "TabBarConfig": {
+      "showFloating": false,
+      "color": "ff472a72",
+      "radiusTopLeft": 15.079123349164956,
+      "paddingRight": 0,
+      "colorActiveIcon": "ffffffff",
+      "colorCart": "fffe2060",
+      "TabBarIndicator": {
+        "strokeWidth": null,
+        "color": "d06c558e",
+        "horizontalPadding": 10.01247069941136,
+        "topRightRadius": 9.138236789907289,
+        "tabPosition": "bottom",
+        "bottomRightRadius": 8.866903346613203,
+        "bottomLeftRadius": 9.173194264700902,
+        "topLeftRadius": 9.266948361796246,
+        "paintingStyle": "fill",
+        "distanceFromCenter": null,
+        "radius": null,
+        "verticalPadding": null,
+        "height": null
+      },
+      "radiusTopRight": 15.047170605431592,
+      "radiusBottomLeft": 15.03100081501931,
+      "marginLeft": 14.976930273759336,
+      "marginRight": 15.012519286150008,
+      "colorIcon": "ffffffff",
+      "paddingBottom": 10.006131677365229,
+      "indicatorStyle": "rectangular",
+      "enable": true,
+      "radiusBottomRight": 15.034404981421897,
+      "iconSize": 22.955647901669458,
+      "marginBottom": 14.973564791065872,
+      "showFloatingClip": true,
+      "paddingTop": 9.960136747221199,
+      "isSafeArea": false,
+      "paddingLeft": 0,
+      "marginTop": 0,
+      "TabBarFloating": {
+        "elevation": null,
+        "color": null,
+        "width": null,
+        "floatingType": "rectangle",
+        "location": null,
+        "position": 0,
+        "radius": null,
+        "height": null
+      }
+    },
+    "FontFamily": "Roboto",
+    "FontHeader": "Raleway",
+    "ProductDetail": "simpleType",
+    "MainColor": "#472A72",
+    "ShowChat": false,
+    "ProductListLayout": "list",
+    "SmartEngagementBanner": {
+      "popup": {
+        "closePosition": "topRight",
+        "alwaysShowUponOpen": true,
+        "enable": false
+      },
+      "flexible": {
+        "canClose": true,
+        "data": {
+          "parallax": false,
+          "enableParallax": false,
+          "isHorizontal": false,
+          "marginLeft": 0,
+          "layout": "bannerImage",
+          "fit": "fitWidth",
+          "marginRight": 0,
+          "parallaxImageRatio": 1.2,
+          "design": "static",
+          "marginBottom": 0,
+          "items": [
+            {
+              "image": "https://i.imgur.com/t5fbx2X.jpeg",
+              "padding": 15,
+              "bannerWithProduct": false,
+              "showSubcategory": false,
+              "defaultShowProduct": false,
+              "products": []
+            }
+          ],
+          "marginTop": 0,
+          "key": "fg251mkrgk"
+        },
+        "enable": false,
+        "width": 235,
+        "canDrag": true,
+        "height": 154
+      },
+      "sticky": {
+        "enable": false
+      }
+    },
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "fontFamily": "CupertinoIcons",
+      "pos": 100,
+      "icon": "home",
+      "label": null
+    },
+    {
+      "layout": "profile",
+      "settings": [
+        "wishlist",
+        "language",
+        "currencies",
+        "order",
+        "privacy",
+        "about"
+      ],
+      "pos": 200,
+      "icon": "assets/icons/tabs/icon-user.png",
+      "subGeneralSetting": {
+        "about": {
+          "enableClose": false,
+          "webViewMode": false,
+          "webUrl": "https://www.asdaaalshroq.com/%d9%85%d9%86-%d9%86%d8%ad%d9%86/",
+          "enableBackward": true,
+          "requiredLogin": false,
+          "script": "",
+          "enableForward": false
+        },
+        "privacy": {
+          "enableClose": false,
+          "webViewMode": false,
+          "webUrl": "https://www.asdaaalshroq.com/%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7-%d9%88%d8%a7%d9%84%d8%a3%d8%ad%d9%83%d8%a7%d9%85/",
+          "enableBackward": true,
+          "requiredLogin": false,
+          "script": "",
+          "enableForward": false
+        }
+      }
+    },
+    {
+      "layout": "cart",
+      "pos": 300,
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "layout": "search",
+      "pos": 400,
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "category",
+      "icon": "circle_grid_3x3_fill",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "categoryLayout": "animation",
+      "categories": [
+        "584",
+        "2236",
+        "709",
+        "507",
+        "585",
+        "587",
+        "499",
+        "508",
+        "503",
+        "498"
+      ],
+      "parallax": false,
+      "parallaxImageRatio": 1.2
+    }
+  ],
+  "AppBar": {
+    "elevation": 0,
+    "pinned": true,
+    "showOnScreens": [
+      "home"
+    ],
+    "enable": true,
+    "floating": true,
+    "alwaysShowAppBar": false,
+    "items": [
+      {
+        "backgroundColor": "a000000",
+        "paddingRight": 4,
+        "icon": "bars",
+        "type": "icon",
+        "marginLeft": 16,
+        "marginRight": 4,
+        "fontFamily": "CupertinoIcons",
+        "paddingBottom": 4,
+        "size": 45,
+        "pos": 100,
+        "iconColor": "ff673ab7",
+        "action": "menu",
+        "textOpacity": 0.5,
+        "iconSize": 31,
+        "fontSize": 16,
+        "marginBottom": 4,
+        "paddingTop": 4,
+        "alignment": "center",
+        "radius": 100,
+        "paddingLeft": 4,
+        "fontWeight": "400",
+        "marginTop": 4,
+        "key": "nf89l1v2kv"
+      },
+      {
+        "backgroundColor": "a000000",
+        "paddingRight": 16,
+        "icon": "search",
+        "type": "search",
+        "title": "Search",
+        "marginLeft": 4,
+        "marginRight": 4,
+        "fontFamily": "CupertinoIcons",
+        "paddingBottom": 4,
+        "size": 40,
+        "pos": 200,
+        "action": "search",
+        "textOpacity": 0.5,
+        "iconSize": 20,
+        "fontSize": 16,
+        "marginBottom": 4,
+        "paddingTop": 4,
+        "alignment": "center",
+        "radius": 100,
+        "paddingLeft": 16,
+        "fontWeight": "400",
+        "marginTop": 4,
+        "key": "kr72qonmst"
+      },
+      {
+        "paddingRight": 4,
+        "icon": "heart_solid",
+        "type": "icon",
+        "marginLeft": 4,
+        "marginRight": 4,
+        "fontFamily": "CupertinoIcons",
+        "paddingBottom": 4,
+        "size": 44,
+        "pos": 300,
+        "iconColor": "ff673ab7",
+        "action": "wishlist",
+        "textOpacity": 0.5,
+        "iconSize": 24,
+        "fontSize": 16,
+        "marginBottom": 4,
+        "paddingTop": 4,
+        "alignment": "center",
+        "radius": 24,
+        "paddingLeft": 4,
+        "fontWeight": "400",
+        "marginTop": 4
+      }
+    ],
+    "snap": true
+  },
+  "Drawer": {
+    "filter": 0,
+    "logoConfig": {
+      "marginRight": 0,
+      "boxFit": "cover",
+      "marginBottom": 10,
+      "marginTop": 60,
+      "height": 38,
+      "marginLeft": 5
+    },
+    "enable": true,
+    "logo": "https://i.imgur.com/aDn7YI6.png",
+    "subDrawerItem": {},
+    "safeArea": false,
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "show": false,
+        "type": "blog"
+      },
+      {
+        "show": true,
+        "type": "categories"
+      },
+      {
+        "show": true,
+        "type": "cart"
+      },
+      {
+        "show": true,
+        "type": "profile"
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "show": true,
+        "type": "category"
+      },
+      {
+        "show": false,
+        "type": "web"
+      }
+    ],
+    "key": "tvuekl1ubp"
+  }
+}

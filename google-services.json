@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645796672899",
+    "project_id": "asdaa-al-shroq",
+    "storage_bucket": "asdaa-al-shroq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645796672899:android:79eb84af6b5c87299e72b6",
+        "android_client_info": {
+          "package_name": "com.asdaaalshroq.mapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645796672899-huhtjdspc8p6vs95mc1t07jla5aepsrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACCVUy5ktU1kazQg9V_0lAgKqWJHz7C00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645796672899-huhtjdspc8p6vs95mc1t07jla5aepsrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
